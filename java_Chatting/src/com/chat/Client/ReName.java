@@ -1,4 +1,4 @@
-package com.samsungsds.chat.Client;
+package com.chat.Client;
 import java.awt.*;
 import javax.swing.*;
 

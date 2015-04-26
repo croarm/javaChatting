@@ -1,4 +1,4 @@
-package com.samsungsds.chat.Client;
+package com.chat.Client;
 
 import java.io.*;
 import java.util.*;
@@ -8,7 +8,7 @@ import java.awt.event.*;
 
 import javax.swing.*;
 
-import com.samsungsds.chat.Data.ChatConstant;
+import com.chat.Data.ChatConstant;
 
 public class Login extends JFrame implements ActionListener, Runnable {
 

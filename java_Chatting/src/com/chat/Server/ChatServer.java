@@ -1,4 +1,4 @@
-package com.samsungsds.chat.Server;
+package com.chat.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.net.Socket;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
-import com.samsungsds.chat.Data.ChatConstant;
+import com.chat.Data.ChatConstant;
 
 public class ChatServer implements Runnable { // extends 나 implements 나 아무거나 쓸것
 

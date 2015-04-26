@@ -1,4 +1,4 @@
-package com.samsungsds.chat.Data;
+package com.chat.Data;
 
 public class ChatConstant {
 	public static final int PORT = 9876;
